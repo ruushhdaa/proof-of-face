@@ -397,3 +397,6 @@ class BlockchainClient:
 
 # Polygon Amoy (ChainID 80002) transaction pipeline
 
+
+# MaxFeePerGas and MaxPriorityFeePerGas estimation
+
