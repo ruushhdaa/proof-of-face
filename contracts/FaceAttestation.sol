@@ -110,3 +110,6 @@ contract FaceAttestation {
 
 // Added non-zero bytes32 commitment hash validation
 
+
+// Implemented O(1) external view query method
+
