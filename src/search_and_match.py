@@ -540,3 +540,6 @@ if __name__ == "__main__":
 
 # Cursor-based pagination support added
 
+
+# Exponential backoff for public feed rate limits
+
