@@ -528,3 +528,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Exception handling for missing facial landmarks in candidate streams
+
