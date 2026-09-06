@@ -400,3 +400,6 @@ class BlockchainClient:
 
 # MaxFeePerGas and MaxPriorityFeePerGas estimation
 
+
+# Configurable poll timeout for testnet block confirmation
+
