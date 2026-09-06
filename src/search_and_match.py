@@ -531,3 +531,6 @@ if __name__ == "__main__":
 
 # Exception handling for missing facial landmarks in candidate streams
 
+
+# Global lazy loader for face recognition weights
+
