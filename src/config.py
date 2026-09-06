@@ -30,3 +30,6 @@ def get_config():
         "CONTRACT_ADDRESS": CONTRACT_ADDRESS,
         "NETWORK": NETWORK,
     }
+
+# Fallback local network defaults added
+
