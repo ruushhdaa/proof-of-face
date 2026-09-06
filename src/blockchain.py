@@ -403,3 +403,6 @@ class BlockchainClient:
 
 # Configurable poll timeout for testnet block confirmation
 
+
+# Redact sensitive credentials in exception telemetry
+
