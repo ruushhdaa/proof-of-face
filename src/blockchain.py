@@ -391,3 +391,6 @@ class BlockchainClient:
             "contract_address": self.contract_address,
             "network": self.network,
         }
+
+# Initialized in-memory EthereumTesterProvider bridge
+
