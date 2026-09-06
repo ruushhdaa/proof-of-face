@@ -86,6 +86,11 @@ hhgoa/
 
 ---
 
+## Watch it work live
+
+- **Drive link**: [Watch the full end-to-end demo recording](https://drive.google.com/drive/folders/13FhhsyVr_QOwJjw1DJJOtamUkwEEIAi7?usp=sharing)
+- **Or view the recording directly in this repo**: [`assets/demo.mp4`](assets/demo.mp4)
+
 ## ⚡ Prerequisites & Setup
 
 ### 1. Prerequisites
@@ -97,7 +102,8 @@ hhgoa/
 
 ```bash
 # 1. Clone or navigate to the repository
-cd hhgoa
+git clone https://github.com/ruushhdaa/proof-of-face.git
+cd proof-of-face
 
 # 2. Create a virtual environment
 python -m venv venv
@@ -123,7 +129,7 @@ cp .env.example .env
 
 Default variables defined in `.env`:
 ```env
-BLUESKY_ACTOR="bsky.app"
+BLUESKY_ACTOR="burnerhhg.bsky.social"
 INPUT_FACE_PATH="assets/selfie.jpg"
 WEB3_PROVIDER_URI="https://rpc-amoy.polygon.technology/"
 PRIVATE_KEY=""
@@ -142,7 +148,7 @@ The CLI features high-scannability terminal output powered by `rich.console` and
 
 ```powershell
 # Run end-to-end against live Bluesky posts from @bsky.app
-python main.py --network local --actor bsky.app --input assets/selfie.jpg --limit 5
+python main.py --network local --actor @burnerhhg.bsky.social --input assets/selfie.jpg --limit 5
 ```
 
 ```powershell
@@ -166,7 +172,7 @@ python main.py --network local --target assets/selfie.jpg --input assets/selfie.
    ```
 3. **Execute Pipeline**:
    ```powershell
-   python main.py --network amoy --actor bsky.app --input assets/selfie.jpg
+   python main.py --network amoy --actor @burnerhhg.bsky.social --input assets/selfie.jpg
    ```
 
 ---
@@ -230,9 +236,9 @@ Active Network: LOCAL  |  Contract Address: 0xF2E246BB76DF876Cef8b38ae84130F4F55
 ╰──────────────────────────────────────────────────────────────────────────────╯
 
 ╭── Step 2/4: Public Feed Query & Candidate Stream Evaluation ─────────────────╮
-│ Actor Handle: @bsky.app  |  Limit: 5 posts                                   │
+│ Actor Handle: @burnerhhg.bsky.social  |  Limit: 5 posts                                   │
 │ Streaming evaluation across candidate posts:                                 │
-│   Candidate 1: ✅ Match confirmed! (Confidence: 78.5%, URL: https://...)      │
+│   Candidate 1: ✅ Match confirmed! (Confidence: 87.5%, URL: https://...)      │
 ╰──────────────────────────────────────────────────────────────────────────────╯
 
 ╭── Step 3/4: Cryptographic Commitment & On-Chain Attestation ─────────────────╮
