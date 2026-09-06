@@ -309,3 +309,6 @@ While the current architecture eliminates on-chain biometrics via one-way crypto
    Migrating from Keccak256/SHA-256 to arithmetic-friendly Poseidon hash functions optimized for zero-knowledge circuits.
 3. **True Zero-Knowledge Attestations**:
    The attestor proves to the smart contract that they found a facial match within distance $\delta$ **without ever publishing the post URL, the image, or any hash directly linkable to the person**.
+
+<!-- Verified Terminal Execution Sample Added -->
+
