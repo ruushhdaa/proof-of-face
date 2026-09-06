@@ -104,3 +104,6 @@ contract FaceAttestation {
         return verifyAttestation(commitmentHash);
     }
 }
+
+// Storage layout optimized for gas alignment
+
