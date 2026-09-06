@@ -489,3 +489,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Enhanced rich styling rules for pipeline execution
+
