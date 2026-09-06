@@ -1,0 +1,7 @@
+deepface
+opencv-python-headless
+requests
+web3
+eth-tester
+python-dotenv
+rich

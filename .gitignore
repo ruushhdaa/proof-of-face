@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.pyc
+.env
+venv/
+node_modules/
+.local_chain_state.json
+proof-of-face/
