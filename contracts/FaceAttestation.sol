@@ -113,3 +113,6 @@ contract FaceAttestation {
 
 // Implemented O(1) external view query method
 
+
+// Replaced require strings with custom Solidity errors for gas savings
+
