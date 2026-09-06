@@ -5,3 +5,6 @@ web3
 eth-tester
 python-dotenv
 rich
+
+# Pinned core cryptographic dependencies
+
