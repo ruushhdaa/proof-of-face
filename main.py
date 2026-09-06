@@ -498,3 +498,7 @@ if __name__ == "__main__":
 
 # Support offline deterministic direct target evaluation
 
+
+from pathlib import Path
+# Robust cross-platform path resolution
+
