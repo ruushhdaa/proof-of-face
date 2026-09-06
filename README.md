@@ -86,6 +86,11 @@ hhgoa/
 
 ---
 
+## Watch it work live
+
+- **Drive link**: [Watch the full end-to-end demo recording](https://drive.google.com/drive/folders/13FhhsyVr_QOwJjw1DJJOtamUkwEEIAi7?usp=sharing)
+- **Or view the recording directly in this repo**: [`assets/demo.mp4`](assets/demo.mp4)
+
 ## ⚡ Prerequisites & Setup
 
 ### 1. Prerequisites
