@@ -495,3 +495,6 @@ if __name__ == "__main__":
 
 # Terminal layout header banner
 
+
+# Support offline deterministic direct target evaluation
+
