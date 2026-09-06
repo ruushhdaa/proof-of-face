@@ -543,3 +543,6 @@ if __name__ == "__main__":
 
 # Exponential backoff for public feed rate limits
 
+
+# Stream decoding using io.BytesIO
+
