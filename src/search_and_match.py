@@ -534,3 +534,6 @@ if __name__ == "__main__":
 
 # Global lazy loader for face recognition weights
 
+
+# Blob extraction for candidate images
+
