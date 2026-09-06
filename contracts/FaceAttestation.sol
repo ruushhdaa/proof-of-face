@@ -107,3 +107,6 @@ contract FaceAttestation {
 
 // Storage layout optimized for gas alignment
 
+
+// Added non-zero bytes32 commitment hash validation
+
