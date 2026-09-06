@@ -1,7 +1,7 @@
 # ProofOfFace: Privacy-Preserving Facial Discovery & Blockchain Attestation
 
 > **Hackhouse Goa — Task 3 Submission**  
-> *End-to-End Pipeline: Face Scan Input $\rightarrow$ Public Social Media Search $\rightarrow$ Cryptographic Commitment $\rightarrow$ Smart Contract Attestation $\rightarrow$ On-Chain Re-Verification Loop.*
+> *End-to-End Pipeline: Face Scan Input ==> Public Social Media Search ==> Cryptographic Commitment ==> Smart Contract Attestation ==> On-Chain Re-Verification Loop.*
 
 ---
 
@@ -89,7 +89,11 @@ hhgoa/
 ## Watch it work live
 
 - **Drive link**: [Watch the full end-to-end demo recording](https://drive.google.com/drive/folders/13FhhsyVr_QOwJjw1DJJOtamUkwEEIAi7?usp=sharing)
-- **Or view the recording directly in this repo**: [`assets/demo.mp4`](assets/demo.mp4)
+- **Or view the recording directly in this repo**:
+  
+https://github.com/user-attachments/assets/2b659be8-1120-4167-923b-813ad4525fcd
+
+
 
 ## ⚡ Prerequisites & Setup
 
