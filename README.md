@@ -1,7 +1,7 @@
 # ProofOfFace: Privacy-Preserving Facial Discovery & Blockchain Attestation
 
 > **Hackhouse Goa — Task 3 Submission**  
-> *End-to-End Pipeline: Face Scan Input $\rightarrow$ Public Social Media Search $\rightarrow$ Cryptographic Commitment $\rightarrow$ Smart Contract Attestation $\rightarrow$ On-Chain Re-Verification Loop.*
+> *End-to-End Pipeline: Face Scan Input ==> Public Social Media Search ==> Cryptographic Commitment ==> Smart Contract Attestation ==> On-Chain Re-Verification Loop.*
 
 ---
 
